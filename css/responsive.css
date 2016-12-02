@@ -1,0 +1,220 @@
+@media screen and (max-width: 1200px) and (min-width: 993px) {
+	.mission-content{
+		margin-left: 3%;
+	}
+	.social-icon{
+		margin-right: 10px;
+	}
+	.header-nav{
+		position: relative;
+    	left: 50%;
+    	margin-left: -190px;
+	}
+}
+@media screen and (max-width: 992px) and (min-width: 769px) {
+	.container{
+		width: 750px;
+		margin: 0 auto;
+	}	
+	.header-nav{
+		position: relative;
+    	left: 50%;
+    	margin-left: -205px;
+	}
+	.mission-content{
+		width: 75%;
+		padding: 100px 60px;
+	}
+	.signature{
+		margin-left: 58%;
+	}
+	.social-icon{
+    	bottom: 175px;
+    	right: 50%;
+    	margin-right: -120px;
+	}
+	.social-icon a{
+		display: inline-block;
+		font-size: 30px;
+    	margin-right: 25px;
+	}
+	.main-content-img{
+		left: -4%;
+	}
+	.form-submit{
+		margin-top: 30px;
+	}
+	.footer-border{
+		margin-left: 24%;
+	}
+}
+@media screen and (max-width: 768px) and (min-width: 480px) {
+	.container{
+		width: 100%;
+	}
+	.header-nav{
+		position: relative;
+    	left: 50%;
+    	margin-left: -235px;
+	}
+	.mission-content{
+		width: initial;
+    	padding: 50px 0px;
+    	margin-left: 3%;
+    	margin-right: 3%;
+	}
+	.mission-background{
+		bottom: 135px;
+		height: 240px;
+	}
+	.social-icon{
+    	bottom: 175px;
+    	right: 50%;
+    	margin-right: -120px;
+	}
+	.social-icon a{
+		display: inline-block;
+		font-size: 30px;
+    	margin-right: 25px;
+	}
+	.signature{
+		width: 50%;
+		margin-left: 50%;
+	}
+	.main-content-img{
+		width: 41%;
+    	bottom: 4px;
+    	left: 5%;
+	}
+	.founder{
+		margin-left: 3%;
+	}
+	.founder-title{
+		margin-left: 2%;
+    	margin-top: 0px;
+	}
+	.founder-title-text{
+		margin-left: 8%;
+	}
+	.form-submit{
+		padding: 26px 107px;
+    	margin-right: 18px;
+	}
+	.form-first-name, .form-email{
+		margin-bottom: 15px;
+	}
+	.footer-border{
+		 position: relative;
+    	left: 50%;
+    	margin-left: -196px;
+	}
+	.footer-bottom-text{
+		width: 90%;
+		margin-left: 6%;
+		margin-bottom: 40px;
+	}
+}
+@media screen and (max-width: 479px) and (min-width: 320px) {
+	.container{
+		width: 100%;
+	}
+	.header-logo{
+		padding: 63px 0px 30px;
+	}
+	.header-logo img{
+		width: 95%;
+	}
+	.slicknav_menu{
+		display: block;
+		background:none;
+	}
+	.header-nav{
+		display: none;
+	}
+	.header-nav-list-item{
+		float: none;
+		text-align: center;
+		margin-right: 0px;
+	}
+	.header-nav-list-item a{
+		color: #000;
+		font-family: Conv_Proxima Nova Bold;
+		font-size: 18px;
+		outline: none;
+	}
+	.slicknav_btn{
+		position: relative;
+    	right: 50%;
+    	margin-right: -58px;
+    	padding: 16px 20px;
+    	background-color: #000;
+    	font-size: 20px;
+	}
+	.mission-content{
+		width: initial;
+    	padding: 50px 0px;
+    	margin-left: 3%;
+    	margin-right: 3%;
+    	font-size: 25px;
+	}
+	.mission-background{
+		bottom: 135px;
+		height: 240px;
+	}
+	.social-icon{
+    	bottom: 175px;
+    	right: 50%;
+    	margin-right: -116px;
+	}
+	.social-icon a{
+		display: inline-block;
+		font-size: 30px;
+    	margin-right: 25px;
+	}
+	.signature{
+		width: 50%;
+		margin-left: 50%;
+	}
+	.main-content-img{
+		width: 45%;
+    	bottom: 4px;
+    	left: 3%;
+	}
+	.founder{
+		margin-left: 3%;
+	}
+	.founder-title{
+		margin-left: -3%;
+    	margin-top: 40px;
+    	background: none;
+    	text-align: center;
+	}
+	.founder-title h1{
+		font-size: 21px;
+	}
+	.founder-title-text{
+		margin-left: -1%;
+	}
+	.form-submit{
+		padding: 26px 92px;
+    	margin-left: -5%;
+	}
+	.form-first-name, .form-email{
+		width: 63%;
+		margin-bottom: 15px;
+	}
+	.footer-title{
+		font-size: 15px;
+	}
+	.footer-border{
+		position: relative;
+    	left: 50%;
+    	margin-left: -141px;
+    	width: 280px;
+	}
+	.footer-bottom-text{
+		width: 90%;
+		margin-left: 6%;
+		margin-bottom: 40px;
+	}
+}
