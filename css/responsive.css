@@ -65,7 +65,7 @@
 	}
 	.mission-background{
 		bottom: 135px;
-		height: 240px;
+		height: 283px;
 	}
 	.social-icon{
     	bottom: 175px;
@@ -83,7 +83,7 @@
 	}
 	.main-content-img{
 		width: 41%;
-    	bottom: 4px;
+    	bottom: 0px;
     	left: 5%;
 	}
 	.founder{
@@ -184,16 +184,17 @@
 		margin-left: 3%;
 	}
 	.founder-title{
-		margin-left: -3%;
+		margin-left: -1%;
     	margin-top: 40px;
     	background: none;
     	text-align: center;
+    	width: 92%;
 	}
 	.founder-title h1{
 		font-size: 21px;
 	}
 	.founder-title-text{
-		margin-left: -1%;
+		margin-left: 1%;
 	}
 	.form-submit{
 		padding: 26px 92px;
